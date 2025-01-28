@@ -1,0 +1,21 @@
+Region,ProductID,Quantity,ProductName,Category
+Asia,P047,16,ComfortLiving Cookware Set,Home Decor
+Asia,P076,14,ActiveWear Jeans,Clothing
+Asia,P028,13,HomeSense Desk Lamp,Home Decor
+Asia,P064,13,HomeSense Running Shoes,Clothing
+Asia,P040,12,SoundWave Mystery Book,Books
+Europe,P049,19,TechPro Textbook,Books
+Europe,P006,17,ActiveWear Rug,Home Decor
+Europe,P097,17,BookWorld Cookbook,Books
+Europe,P054,15,SoundWave Cookbook,Books
+Europe,P074,15,SoundWave Desk Lamp,Home Decor
+North America,P027,18,SoundWave Headphones,Electronics
+North America,P019,17,ComfortLiving Sweater,Clothing
+North America,P022,14,HomeSense Wall Art,Home Decor
+North America,P051,12,ComfortLiving Desk Lamp,Home Decor
+North America,P055,12,BookWorld Biography,Books
+South America,P029,22,TechPro Headphones,Electronics
+South America,P054,21,SoundWave Cookbook,Books
+South America,P058,21,ActiveWear Textbook,Books
+South America,P040,20,SoundWave Mystery Book,Books
+South America,P048,18,TechPro Cookbook,Books
