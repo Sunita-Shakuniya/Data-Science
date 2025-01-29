@@ -1,15 +1,22 @@
-eCommerce Transaction Dataset - Exploratory Data Analysis (EDA)
 
-Overview
+# <span >eCommerce Transaction Dataset - Exploratory Data Analysis (EDA)</span>
 
-This project performs Exploratory Data Analysis (EDA) on an eCommerce transaction dataset. The goal is to derive valuable business insights from customer transactions, regional sales, and product performance.
+# <span > Overview</span>
 
-Dataset Description
+<p>This project performs Exploratory Data Analysis (EDA) on an eCommerce transaction dataset. The goal is to derive valuable business insights from customer transactions, regional sales, and product performance.</p>
 
-The dataset consists of multiple files related to customers, products, and transactions. Key attributes include:
+## <span >Dataset Description</span>
+  <ul style="list-style-type: square;">
+<li>Customer Details: CustomerID, CustomerName, Region, SignupDate.</li>
+<li>Product Details: ProductID, ProductName, Category, Price.</li>
+<li>Transaction Data: Quantity, Total Sales Value</li>
+  </ul>    
 
-Customer Details: CustomerID, CustomerName, Region, SignupDate
 
-Product Details: ProductID, ProductName, Category, Price
 
-Transaction Data: Quantity, Total Sales Value
+
+
+
+
+
+
